@@ -6,8 +6,7 @@ Speakers attached to the umbrella also responded to the partipants location on t
 
 The first interation on desktop (responding to mouse location):
 
-![alt text](https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro1_400.gif)
-![alt text](https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro2_400.gif)
+<img src="https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro1_400.gif" height="300">  <img src="https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro2_400.gif" height="300">
 
 The final installation on the night.
 
