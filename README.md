@@ -9,4 +9,5 @@ The first interation on desktop:
 ![alt text](https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro2_400.gif)
 
 The final installation on the night (video).
-[linkname](https://www.youtube.com/watch?v=evMb1rwsnEI
+
+[linkname](https://www.youtube.com/watch?v=evMb1rwsnEI)
