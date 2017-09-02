@@ -1,4 +1,5 @@
 Energy Interactive Artwork
+
 An interactive floor projection created in Processing and MaxMsp.
 The particles in the animation respond to the brightest point as detected by a webcam. On the night this was a clear umbrella & torch.
 Speakers attached to the umbrella also responded to the partipants location on the ground.
