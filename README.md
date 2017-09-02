@@ -8,6 +8,6 @@ The first interation on desktop:
 ![alt text](https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro1_400.gif)
 ![alt text](https://github.com/j-fan/energy-interactive-artwork/blob/master/tumblr_onqhsrc2eT1r2rrcro2_400.gif)
 
-The final installation on the night (video).
+The final installation on the night.
 
-[linkname](https://www.youtube.com/watch?v=evMb1rwsnEI)
+[youtube video documentation](https://www.youtube.com/watch?v=evMb1rwsnEI)
